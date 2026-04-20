@@ -13,10 +13,12 @@ Scripts are organised by purpose rather than language:
 script-toolbox/
 ├── soundcloud/
 ├── windows/
+├── markdown/
 ```
 
 - **soundcloud/** - Scripts related to interacting with Soundcloud
 - **windows/** - Scripts relevant to windows specifically like hotkeys
+- **markdown/** - Scripts relevant to markdown format like markdown to html converter
 
 Some scripts may have multiple implementations in different languages, feel free to use any depending on your preference.
 
